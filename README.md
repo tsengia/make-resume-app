@@ -1,15 +1,23 @@
-# Resume Editor
+# Make Resume
+Make Resume is a Desktop application that provides a unified editor to tailor resumes for job postings. 
 
+It is written in TypeScript and built on top of the [Tauri](https://tauri.app/) app framework. It also makes use of React, MobX, and Material UI.
+
+I built Make Resume to teach myself TypeScript, UI/UX programming/design, and to expose myself to the front end world.
 
 ## Building
+Make Resume is built using Tauri and Yarn.
 
+To use Tauri, you will need Rust installed.
+
+To compile during development, run the following commands:
 ```bash
-# Once you have yarn installed, run:
-yarn
+# 1. Install dependencies
 yarn install
-# Next, run this to fix VS Code yarn integration:
+
+# 2. (optional) Run this so that VS Code's autocomplete works with Yarn berry:
 yarn dlx @yarnpkg/sdks vscode
 
-# Then run:
+# 3. Compile the application and launch the development server
 yarn run tauri dev
 ```
