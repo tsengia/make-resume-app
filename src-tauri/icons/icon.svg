@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="1024"
+   viewBox="0 0 270.93334 270.93333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.74564394"
+     inkscape:cx="82.479045"
+     inkscape:cy="468.05182"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="1072"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="81.808484"
+       y="92.537465"
+       width="858.31852"
+       height="844.90729"
+       id="rect952" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.926154;stroke-linecap:round;stroke-linejoin:round"
+       id="rect234"
+       width="270.93335"
+       height="270.93335"
+       x="4.4408921e-16"
+       y="8.8817842e-16" />
+    <text
+       xml:space="preserve"
+       transform="matrix(5.8481389,0,0,5.8481389,-451.76053,-530.04365)"
+       id="text950"
+       style="font-size:39.524px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect952);display:inline"><tspan
+         x="81.808594"
+         y="127.12061"
+         id="tspan3206"><tspan
+           style="font-family:'Palatino Linotype';-inkscape-font-specification:'Palatino Linotype'"
+           id="tspan3204">M</tspan></tspan></text>
+  </g>
+</svg>
