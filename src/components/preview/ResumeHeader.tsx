@@ -23,7 +23,7 @@ const ResumeHeader = observer((props: ResumeHeaderProps) => {
                         {selections.identity.middle_name_initial ? resume.identity.name.middle.substring(0,1) + "." : resume.identity.name.middle }&nbsp;
                         {selections.identity.last_name_initial ? resume.identity.name.last.substring(0,1) + "." : resume.identity.name.last } 
                     </h1>
-                    <p id="address" >{resume.identity.address.firstLine} {resume.identity.address.secondLine}</p>
+                    <p id="address" >{resume.identity.address.firstLine}<br />{resume.identity.address.secondLine}</p>
                 </div>
                 <div className="right-column" >
                     <p id="phone" >{resume.identity.contact.phone}</p>
