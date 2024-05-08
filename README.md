@@ -5,6 +5,8 @@ It is written in TypeScript and built on top of the [Tauri](https://tauri.app/) 
 
 I built Make Resume to teach myself TypeScript, UI/UX programming/design, and to expose myself to the front end world.
 
+![Screenshot of make-resume with two main pages. To the left is a preview of the resume and to the right is a pane to enter information into.](make-resume-app-screenshot.png)
+
 ## Building
 Make Resume is built using Tauri and Yarn.
 
